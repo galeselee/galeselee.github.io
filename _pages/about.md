@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Zeyu Li（李泽宇）"
-excerpt: "About me"
+title: "Zeyu Li"
 author_profile: true
 redirect_from: 
   - /about/
