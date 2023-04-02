@@ -172,12 +172,12 @@ defaults:
       layout: single
       author_profile: true
   # _blogs
-  - scope:
-      path: ""
-      type: blog
-    value:
-      layout: single
-      author_profile: true
+  # - scope:
+      # path: ""
+      # type: blog
+    # value:
+      # layout: single
+      # author_profile: true
 
 # Sass/SCSS
 sass:
