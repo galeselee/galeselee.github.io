@@ -171,6 +171,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _blogs
+  - scope:
+      path: ""
+      type: blog
+    value:
+      layout: single
+      author_profile: true
 
 # Sass/SCSS
 sass:
