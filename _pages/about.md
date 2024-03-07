@@ -11,6 +11,9 @@ I am a first-year CS Ph.D. at Hong Kong University of Science and Technology(Gua
 
 I am interested in high performance computing(HPC), especially GPU computing and making machine learning system more efficient(MLSys). If you are interested in my research, please feel free to contact me!
 
+# News
+- We release the burstGPT([Dataset](https://github.com/HPMLL/BurstGPT), [Paper](https://arxiv.org/abs/2401.17644)). As far as we know, this is the first real trace of chatbot using GPT server. Feel free to try!
+
 # Publications
 - (IPDPS 2024)Benchmarking and Dissecting the Nvidia Hopper GPU Architecture \\
 Weile Luo, Ruibo Fan, Zeyu Li, Dayou Du, Qiang Wang, Xiaowen Chu
