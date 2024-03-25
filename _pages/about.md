@@ -13,7 +13,7 @@ I am interested in high performance computing(HPC), especially GPU computing and
 
 # News
 - [2024.3] We release the burstGPT([Dataset](https://github.com/HPMLL/BurstGPT), [Paper](https://arxiv.org/abs/2401.17644)). As far as we know, this is the first real trace of chatbot using GPT server. Feel free to try!
-- [2023.12] Collect and release the Awesome_LLM_Accelerate-PaperList](https://github.com/galeselee/Awesome_LLM_Accelerate-PaperList). It is a list of papers on accelerating LLMs, currently focusing mainly on inference acceleration, and related works will be gradually added in the future.
+- [2023.12] Collect and release the [Awesome_LLM_Accelerate-PaperList](https://github.com/galeselee/Awesome_LLM_Accelerate-PaperList). It is a list of papers on accelerating LLMs, currently focusing mainly on inference acceleration, and related works will be gradually added in the future.
 
 # Publications
 - (IPDPS 2024)Benchmarking and Dissecting the Nvidia Hopper GPU Architecture \\
