@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year CS Ph.D. at Hong Kong University of Science and Technology(Guang Zhou) under the instruction from Professor [Xiaowen Chu](https://sites.google.com/view/chuxiaowen). I received my B.S. at Peking University advised by Professor [Jie Zhang](https://www.chaselab.wiki/) and [Chao Yang](https://www.math.pku.edu.cn/teachers/yangch/english/index.html).
+I am a first-year CS Ph.D. at Hong Kong University of Science and Technology(Guang Zhou) under the instruction from Prof. [Xiaowen Chu](https://sites.google.com/view/chuxiaowen). I received my B.S. at Peking University advised by Prof. [Jie Zhang](https://www.chaselab.wiki/) and [Chao Yang](https://www.math.pku.edu.cn/teachers/yangch/english/index.html).
 
 I am interested in high performance computing(HPC), especially GPU computing and making machine learning system more efficient(MLSys). If you are interested in my research, please feel free to contact me!
 
 # News
-- [2024.3] We release the burstGPT([Dataset](https://github.com/HPMLL/BurstGPT), [Paper](https://arxiv.org/abs/2401.17644)). As far as we know, this is the first real trace of chatbot using GPT server. Feel free to try!
+- [2024.3] We release the BurstGPT([Dataset](https://github.com/HPMLL/BurstGPT), [Paper](https://arxiv.org/abs/2401.17644)). As far as we know, this is the first real trace of chatbot using GPT server. Feel free to try!
 - [2023.12] Collect and release the [Awesome_LLM_Accelerate-PaperList](https://github.com/galeselee/Awesome_LLM_Accelerate-PaperList). It is a list of papers on accelerating LLMs, currently focusing mainly on inference acceleration, and related works will be gradually added in the future.
 
 # Publications
@@ -24,19 +24,19 @@ Jinzhe Zeng, Duo Zhang, Denghui Lu, Pinghui Mo, Zeyu Li, ..., Weinan E, Roberto 
 
 # Experiences
 - Peking University  \\
-Undergrad Research (advisor: Assistant Professor Jie Zhang) \\
+Undergrad Research (advisor: Prof. Jie Zhang) \\
 sept. 2022 – Jun. 2023 
 
 - Peking University \\
-Research Intern(advisor: Professor Chao Yang and Doctor Chuanfu Xiao) \\
+Research Intern(advisor: Prof. Chao Yang and Dr. Chuanfu Xiao) \\
 Jan. 2021 – Jun. 2023
 
 - Taichi Graphics \\
-Intern (advisor: Doctor Haidong Lan) \\
+Intern (advisor: Dr. Haidong Lan) \\
 Mar. 2022 - Jun. 2023
 
 - DP Technology \\
-Intern (advisor: Denghui Lu) \\
+Intern (advisor: Mr. Denghui Lu) \\
 Mar. 2021 - Aug. 2021
 
 # Selected Awards
