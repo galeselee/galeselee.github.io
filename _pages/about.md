@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year CS Ph.D. at Hong Kong University of Science and Technology(Guang Zhou) under the instruction from Prof. [Xiaowen Chu](https://sites.google.com/view/chuxiaowen). I received my B.S. at Peking University advised by Prof. [Jie Zhang](https://www.chaselab.wiki/) and [Chao Yang](https://www.math.pku.edu.cn/teachers/yangch/english/index.html).
+I am a second-year CS Ph.D. at Hong Kong University of Science and Technology(Guang Zhou) under the instruction from Prof. [Xiaowen Chu](https://sites.google.com/view/chuxiaowen). I received my B.S. at Peking University advised by Prof. [Jie Zhang](https://www.chaselab.wiki/) and [Chao Yang](https://www.math.pku.edu.cn/teachers/yangch/english/index.html).
 
 I am interested in high performance computing(HPC), especially GPU computing and making machine learning system more efficient(MLSys). If you are interested in my research, please feel free to contact me!
+
+MBTI: ESTJ or ENTJ
 
 # News
 - [2024.3] We release the BurstGPT([Dataset](https://github.com/HPMLL/BurstGPT), [Paper](https://arxiv.org/abs/2401.17644)). As far as we know, this is the first real trace of chatbot using GPT server. Feel free to try!
