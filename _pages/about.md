@@ -24,6 +24,9 @@ Weile Luo, Ruibo Fan, Zeyu Li, Dayou Du, Qiang Wang, Xiaowen Chu
 - (J. Chem. Phys. Aug 2023) DeePMD-kit v2: A software package for Deep Potential models \\
 Jinzhe Zeng, Duo Zhang, Denghui Lu, Pinghui Mo, Zeyu Li, ..., Weinan E, Roberto Car, Linfeng Zhang, Han Wang
 
+## Academic Services
+Reviewer: MLsys, Neurips, IPDPS, TPDS, TOCS
+
 # Experiences
 - Peking University  \\
 Undergrad Research (advisor: Prof. Jie Zhang) \\
