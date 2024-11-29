@@ -51,4 +51,6 @@ Mar. 2021 - Aug. 2021
 - Outstanding graduate of Yuanpei College (Top 15%), 2023
 - Chinese Chemistry Olympiad (First Prize, Rank 6 in China), 2017
 
+Update data: 2024/11/29(y/m/d)
+
 <a href="https://clustrmaps.com/site/1by9p"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_Djo4mzjSb1favzToCmkQ53w-D3ydYk_aiivY5nyBKY&cl=ffffff&w=600" /></a>
