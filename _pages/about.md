@@ -9,7 +9,7 @@ redirect_from:
 
 I am a second-year CS Ph.D. at Hong Kong University of Science and Technology(Guang Zhou) under the instruction from Prof. [Xiaowen Chu](https://sites.google.com/view/chuxiaowen). I received my B.S. at Peking University advised by Prof. [Jie Zhang](https://www.chaselab.wiki/) and [Chao Yang](https://www.math.pku.edu.cn/teachers/yangch/english/index.html).
 
-I am interested in high performance computing(HPC), especially GPU computing and making machine learning system more efficient(MLSys). If you are interested in my research, please feel free to contact me!
+I am interested in high performance computing(HPC), especially GPU computing and making machine learning system more efficient(MLSys). If you are interested in my research, please feel free to contact me! [Email](zeyuli0123@icloud.com)
 
 MBTI: ESTJ or ENTJ
 
@@ -25,7 +25,7 @@ Weile Luo, Ruibo Fan, Zeyu Li, Dayou Du, Qiang Wang, Xiaowen Chu
 Jinzhe Zeng, Duo Zhang, Denghui Lu, Pinghui Mo, Zeyu Li, ..., Weinan E, Roberto Car, Linfeng Zhang, Han Wang
 
 ## Academic Services
-Reviewer: MLsys, Neurips, IPDPS, TPDS, TOCS
+Reviewer: MLsys, Neurips, IPDPS, TPDS, TOCS, Computing survey
 
 # Experiences
 - Peking University  \\
@@ -35,6 +35,10 @@ sept. 2022 – Jun. 2023
 - Peking University \\
 Research Intern(advisor: Prof. Chao Yang and Dr. Chuanfu Xiao) \\
 Jan. 2021 – Jun. 2023
+
+- Microsoft research asis \\
+System and Networking Intern (advisor: Dr. Yang Wang) \\
+Sept. 2024 - Feb. 2025(expected)
 
 - Taichi Graphics \\
 Intern (advisor: Dr. Haidong Lan) \\
@@ -51,6 +55,6 @@ Mar. 2021 - Aug. 2021
 - Outstanding graduate of Yuanpei College (Top 15%), 2023
 - Chinese Chemistry Olympiad (First Prize, Rank 6 in China), 2017
 
-Update data: 2024/11/29(y/m/d)
+Update data: 2024/12/21(y/m/d)
 
 <a href="https://clustrmaps.com/site/1by9p"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_Djo4mzjSb1favzToCmkQ53w-D3ydYk_aiivY5nyBKY&cl=ffffff&w=600" /></a>
