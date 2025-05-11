@@ -33,7 +33,7 @@ Weile Luo, Ruibo Fan, Zeyu Li, Dayou Du, Qiang Wang, Xiaowen Chu
 Jinzhe Zeng, Duo Zhang, Denghui Lu, Pinghui Mo, Zeyu Li, ..., Weinan E, Roberto Car, Linfeng Zhang, Han Wang
 
 ## Academic Services
-2025: OSDI, ATC
+2025: OSDI, ATC \\
 2024: MLsys, Neurips, IPDPS, TPDS, TOCS, Computing survey
 
 # Experiences
