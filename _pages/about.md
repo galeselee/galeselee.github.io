@@ -14,6 +14,7 @@ I am interested in high performance computing(HPC), especially GPU computing and
 MBTI: ESTJ or ENTJ
 
 # News
+- [2025.5] Our paper "BurstGPT: A Real-World Workload Dataset to Optimize LLM Serving Systems" is accepted by KDD D&B track. Congratulations to Yuxin and Yuhan.
 - [2025.4] Our paper "SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs" awards Eurosys 2025 Best Paper. Congratulations to Ruibo and all authors.
 - [2025.3] Our paper "HOSCF: Efficient decoupling algorithms for finding the best rank-one approximation of higher-order tensors" is accepted by SIMAX. Congratulations to Chuanfu and all authors.
 - [2024.3] We release the BurstGPT([Dataset](https://github.com/HPMLL/BurstGPT), [Paper](https://arxiv.org/abs/2401.17644)). As far as we know, this is the first real trace of chatbot using GPT server. Feel free to try!
