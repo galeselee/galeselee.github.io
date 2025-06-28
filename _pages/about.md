@@ -22,20 +22,20 @@ MBTI: ESTJ or ENTJ
 - [2023.12] Collect and release the [Awesome_LLM_Accelerate-PaperList](https://github.com/galeselee/Awesome_LLM_Accelerate-PaperList). It is a list of papers on accelerating LLMs, currently focusing mainly on inference acceleration, and related works will be gradually added in the future.
 
 # Publications
-- (preprint) AnTKV: anchor token-aware sub-bit vector quantization for KV cache in large language models \\
-Zeyu Li, Chuanfu Xiao, Yang Wang, Xiang Liu, Zhenheng Tang, Baotong Lu, Mao Yang, Xinyu Chen, Xiaowen Chu, 
+- (preprint) AnTKV: anchor token-aware sub-bit vector quantization for KV cache in large language models.\\
+  **Zeyu Li**, Chuanfu Xiao, Yang Wang, Xiang Liu, Zhenheng Tang, Baotong Lu, Mao Yang, Xinyu Chen, Xiaowen Chu, 
   
-- (Eurosys 2025) SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs \\
-Ruibo Fan, Xiangrui Yu, Peijie Dong, Zeyu Li, Gu Gong, Qiang Wang, Wei Wang, Xiaowen Chu
+- (Eurosys 2025) SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs. \\
+  Ruibo Fan, Xiangrui Yu, Peijie Dong, **Zeyu Li**, Gu Gong, Qiang Wang, Wei Wang, Xiaowen Chu
 
-- (SIMAX) HOSCF: Efficient decoupling algorithms for finding the best rank-one approximation of higher-order tensors \\
-Chuanfu Xiao, Zeyu Li, Chao Yang
+- (SIMAX) HOSCF: Efficient decoupling algorithms for finding the best rank-one approximation of higher-order tensors. \\
+  Chuanfu Xiao, **Zeyu Li**, Chao Yang
 
-- (IPDPS 2024)Benchmarking and Dissecting the Nvidia Hopper GPU Architecture \\
-Weile Luo, Ruibo Fan, Zeyu Li, Dayou Du, Qiang Wang, Xiaowen Chu
+- (IPDPS 2024)Benchmarking and Dissecting the Nvidia Hopper GPU Architecture. \\
+  Weile Luo, Ruibo Fan, **Zeyu Li**, Dayou Du, Qiang Wang, Xiaowen Chu
 
-- (J. Chem. Phys. Aug 2023) DeePMD-kit v2: A software package for Deep Potential models \\
-Jinzhe Zeng, Duo Zhang, Denghui Lu, Pinghui Mo, Zeyu Li, ..., Weinan E, Roberto Car, Linfeng Zhang, Han Wang
+- (J. Chem. Phys. Aug 2023) DeePMD-kit v2: A software package for Deep Potential models. \\
+  Jinzhe Zeng, Duo Zhang, Denghui Lu, Pinghui Mo, **Zeyu Li**, ..., Weinan E, Roberto Car, Linfeng Zhang, Han Wang
 
 ## Academic Services
 2025: OSDI, ATC, Neurips \\
