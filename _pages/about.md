@@ -14,6 +14,7 @@ I am interested in high performance computing(HPC), especially GPU computing and
 MBTI: ESTJ or ENTJ
 
 # News
+- [2025.6] We release [AnTKV: anchor token-aware sub-bit vector quantization for KV cache in large language models](https://arxiv.org/abs/2506.19505). This work proposes a novel quantization method that significantly reduces KV cache size while maintaining model accuracy based on Anchor Tokens.
 - [2025.5] Our paper "BurstGPT: A Real-World Workload Dataset to Optimize LLM Serving Systems" is accepted by KDD D&B track. Congratulations to Yuxin and Yuhan.
 - [2025.4] Our paper "SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs" awards Eurosys 2025 Best Paper. Congratulations to Ruibo and all authors.
 - [2025.3] Our paper "HOSCF: Efficient decoupling algorithms for finding the best rank-one approximation of higher-order tensors" is accepted by SIMAX. Congratulations to Chuanfu and all authors.
@@ -21,6 +22,9 @@ MBTI: ESTJ or ENTJ
 - [2023.12] Collect and release the [Awesome_LLM_Accelerate-PaperList](https://github.com/galeselee/Awesome_LLM_Accelerate-PaperList). It is a list of papers on accelerating LLMs, currently focusing mainly on inference acceleration, and related works will be gradually added in the future.
 
 # Publications
+- (preprint) AnTKV: anchor token-aware sub-bit vector quantization for KV cache in large language models \\
+Zeyu Li, Chuanfu Xiao, Yang Wang, Xiang Liu, Zhenheng Tang, Baotong Lu, Mao Yang, Xinyu Chen, Xiaowen Chu, 
+  
 - (Eurosys 2025) SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs \\
 Ruibo Fan, Xiangrui Yu, Peijie Dong, Zeyu Li, Gu Gong, Qiang Wang, Wei Wang, Xiaowen Chu
 
