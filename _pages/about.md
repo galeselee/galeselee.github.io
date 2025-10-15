@@ -52,7 +52,7 @@ Research Intern(advisor: Prof. Chao Yang and Dr. Chuanfu Xiao) \\
 Jan. 2021 – Jun. 2023
 
 - Microsoft research asis \\
-System and Networking Intern (advisor: Dr. Yang Wang) \\
+System and Networking Intern \\
 Sept. 2024 - Feb. 2025
 
 - Taichi Graphics \\
@@ -60,7 +60,7 @@ Intern (advisor: Dr. Haidong Lan) \\
 Mar. 2022 - Jun. 2023
 
 - DP Technology \\
-Intern (advisor: Mr. Denghui Lu) \\
+Intern (advisor: Dr. Denghui Lu) \\
 Mar. 2021 - Aug. 2021
 
 # Selected Awards
