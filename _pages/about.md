@@ -38,7 +38,8 @@ MBTI: ESTJ or ENTJ
   Jinzhe Zeng, Duo Zhang, Denghui Lu, Pinghui Mo, **Zeyu Li**, ..., Weinan E, Roberto Car, Linfeng Zhang, Han Wang
 
 ## Academic Services
-2025: OSDI, ATC, Neurips \\
+2026: Euosys shadow PC \\
+2025: OSDI, ATC, Neurips, ICLR, Jsys AEB \\
 2024: MLsys, Neurips, IPDPS, TPDS, TOCS, Computing survey
 
 # Experiences
