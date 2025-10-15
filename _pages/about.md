@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year CS Ph.D. at Hong Kong University of Science and Technology(Guang Zhou) under the instruction from Prof. [Xiaowen Chu](https://sites.google.com/view/chuxiaowen)(primary) and [Xinyu Chen](https://soldierchen.github.io/). I received my B.S. at Peking University advised by Prof. [Jie Zhang](https://www.chaselab.wiki/) and [Chuanfu Xiao](https://chuanfuxiao.github.io/).
+I am a third-year CS Ph.D. at Hong Kong University of Science and Technology(Guang Zhou) under the instruction from Prof. [Xiaowen Chu](https://sites.google.com/view/chuxiaowen)(primary) and [Xinyu Chen](https://soldierchen.github.io/). I received my B.S. at Peking University advised by Prof. [Jie Zhang](https://www.chaselab.wiki/) and [Chuanfu Xiao](https://chuanfuxiao.github.io/).
 
 I am interested in high performance computing(HPC), especially GPU computing and making machine learning system more efficient(MLSys). If you are interested in my research, please feel free to contact me! [Email](zeyuli0123@icloud.com)
 
