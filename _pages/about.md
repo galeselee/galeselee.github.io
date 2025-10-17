@@ -38,8 +38,7 @@ MBTI: ESTJ or ENTJ
   Jinzhe Zeng, Duo Zhang, Denghui Lu, Pinghui Mo, **Zeyu Li**, ..., Weinan E, Roberto Car, Linfeng Zhang, Han Wang
 
 ## Academic Services
-2026: Euosys shadow PC \\
-2025: OSDI, ATC, Neurips, ICLR, Jsys AEB \\
+2025: OSDI, ATC, Neurips (top reviewer), ICLR, Jsys AEB, Eurosys \\
 2024: MLsys, Neurips, IPDPS, TPDS, TOCS, Computing survey
 
 # Experiences
@@ -70,6 +69,6 @@ Mar. 2021 - Aug. 2021
 - Outstanding graduate of Yuanpei College (Top 15%), 2023
 - Chinese Chemistry Olympiad (First Prize, Rank 6 in China), 2017
 
-Update data: 2025/5/25(y/m/d)
+Update data: 2025/10/17(y/m/d)
 
 <a href="https://clustrmaps.com/site/1by9p"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_Djo4mzjSb1favzToCmkQ53w-D3ydYk_aiivY5nyBKY&cl=ffffff&w=600" /></a>
